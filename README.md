@@ -19,13 +19,14 @@
 
 ## 👋 About Me
 
-I am a motivated fresher and aspiring **Software Developer** with a strong interest in backend development and problem-solving.  
-Currently building projects, improving coding skills, and preparing for **software developer & MCA entrance exams**.
+I am an enthusiastic fresher with a strong passion for software development and problem-solving.
+I enjoy learning new technologies, building projects, and turning ideas into functional, real-world solutions.
 
-- 🔹 Passionate about backend development & databases  
-- 🔹 Practicing aptitude, DSA, and real-world projects  
-- 🔹 Actively learning and sharing projects on GitHub  
-- 🔹 Goal: Become a skilled software developer  
+🔹 Continuously exploring and improving my coding skills
+
+🔹 Enjoy solving algorithmic challenges and developing small projects
+
+🔹 Focused on learning, growth, and making meaningful contributions
 
 ---
 
