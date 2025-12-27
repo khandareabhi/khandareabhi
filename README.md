@@ -4,6 +4,12 @@
   <a href="https://www.linkedin.com/in/abhishek-khandare-160a48307/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
+  <a href="https://leetcode.com/u/Abhishek_here305/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:khandareabhishek0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+  </a>
   <a href="https://github.com/khandareabhi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
