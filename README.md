@@ -47,7 +47,7 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 
   <!-- API & Tools -->
   <img src="https://skillicons.dev/icons?i=postman" height="55" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="50" />
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="50" />
   &nbsp;&nbsp;
 
   <!-- Version Control -->
