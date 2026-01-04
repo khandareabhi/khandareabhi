@@ -43,7 +43,7 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="55" />
   &nbsp;&nbsp;
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker" height="55" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="55" />
 </div>
 
 ---
