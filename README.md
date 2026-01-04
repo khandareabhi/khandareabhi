@@ -36,16 +36,23 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />
   &nbsp;&nbsp;
+
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=python,flask,java,spring" height="55" />
   &nbsp;&nbsp;
+
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="55" />
   &nbsp;&nbsp;
-  <!-- Tools -->
+
+  <!-- API & Tools -->
+  <img src="https://skillicons.dev/icons?i=postman" height="55" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Version Control -->
   <img src="https://skillicons.dev/icons?i=git,github" height="55" />
 </div>
-
 ---
 
 ## 📊 GitHub Activity
