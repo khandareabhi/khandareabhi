@@ -55,6 +55,16 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 </div>
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <!-- Your GitHub Contribution Activity -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khandareabhi&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Abhishek's GitHub Activity Graph"
+  />
 
 
 ## 📊 GitHub Activity
