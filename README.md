@@ -55,10 +55,11 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 </div>
 ---
 
+
+
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -72,12 +73,9 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
       alt="GitHub Contribution Snake Animation"
       src="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/github-snake.svg">
   </picture>
-
 </div>
 
 <h2 align="center">
   git commit -am "consistent progress" ⌨️
 </h2>
-
-
 
