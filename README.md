@@ -65,15 +65,6 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   </picture>
 </div
----
-
-<h2 align="center">
-  git commit -am "consistent progress" ⌨️
-</h2>
- not see my commit updated this
-
----
-
 <h2 align="center">
   git commit -am "consistent progress" ⌨️
 </h2>
