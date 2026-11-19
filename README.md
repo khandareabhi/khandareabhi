@@ -55,25 +55,17 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 </div>
 ---
 
+## 📊 GitHub Activity
 
-
-## 🐍 GitHub Contribution Snake
 
 <div align="center">
+  <!-- Pacman Contribution Graph -->
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/github-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/github-snake.svg">
-
-    <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   </picture>
-</div>
+</div
 
 <h2 align="center">
   git commit -am "consistent progress" ⌨️
