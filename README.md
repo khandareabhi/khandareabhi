@@ -68,6 +68,22 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 
 
 ## 📊 GitHub Activity
+<div align="center">
+  <h2>🐙 My GitHub Contributions</h2>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/pacman-contribution-graph.svg">
+    <img
+      alt="Abhishek's Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
+</div>
 
 <div align="center">
   <!-- Pacman Contribution Graph -->
@@ -76,8 +92,7 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
+</div
 ---
 
 <h2 align="center">
