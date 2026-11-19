@@ -57,13 +57,36 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 
 ## 📊 GitHub Activity
 
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <!-- Pacman Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  </picture>
+
+  <!-- GitHub Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khandareabhi&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Contribution Calendar -->
+  <img
+    src="https://ghchart.rshah.org/409ba5/khandareabhi"
+    width="100%"
+    alt="GitHub Contribution Calendar"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Contribution Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khandareabhi&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
 </div>
 
 ---
@@ -71,4 +94,3 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 <h2 align="center">
   git commit -am "consistent progress" ⌨️
 </h2>
- this willnot see my updated commit and that in this see me my commit in this
