@@ -61,6 +61,30 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 
   <!-- Your GitHub Contribution Activity -->
   <img
+<div align="center">
+  <h2>🐙 My GitHub Contributions</h2>
+
+  <!-- Abhishek's GitHub Contribution Activity -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khandareabhi&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Abhishek's GitHub Activity"
+  />
+
+  <!-- Contribution Calendar -->
+  <img
+    src="https://ghchart.rshah.org/409ba5/khandareabhi"
+    width="100%"
+    alt="Abhishek's GitHub Contributions"
+  />
+</div>
+
+---
+
+<h2 align="center">
+  git commit -am "consistent progress" ⌨️
+</h2>
+
     src="https://github-readme-activity-graph.vercel.app/graph?username=khandareabhi&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
     alt="Abhishek's GitHub Activity Graph"
@@ -69,17 +93,3 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <!-- Pacman Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  </picture>
-</div
----
-
-<h2 align="center">
-  git commit -am "consistent progress" ⌨️
-</h2>
- this willnot see my updated commit and that in this see me my commit in this add me my there github activities there see my commit
