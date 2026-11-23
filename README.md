@@ -76,8 +76,33 @@ I enjoy learning new technologies, building projects, and turning ideas into fun
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/khandareabhi/khandareabhi/output/github-snake.svg" />
   </picture>
 
+---
+
+## 📊 GitHub Profile Statistics
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khandareabhi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandareabhi&layout=compact&theme=tokyonight&langs_count=6" />
+
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khandareabhi&theme=tokyonight" />
+
+</div>
+
+---
+
 <h2 align="center">
   git commit -am "consistent progress" ⌨️
 </h2>
-
+</div>
